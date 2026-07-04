@@ -1,0 +1,57 @@
+{
+  "slug": "initiation-a-l-intelligence-artificielle",
+  "title": "Découvrez l'Intelligence Artificielle : Fondements et Applications",
+  "description": "Apprenez les bases de l'IA et découvrez comment elle transforme les industries en Afrique. Ce cours vous initie aux concepts fondamentaux et aux applications concrètes de l'Intelligence Artificielle.",
+  "level": "debutant",
+  "icon": "🤖",
+  "tags": [
+    "IA",
+    "Machine Learning",
+    "Data Science"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction.md",
+      "title": "Introduction à l'Intelligence Artificielle"
+    },
+    {
+      "file": "02-concepts-de-base.md",
+      "title": "Concepts de Base de l'Intelligence Artificielle"
+    },
+    {
+      "file": "03-machine-learning.md",
+      "title": "Machine Learning : Principes et Applications"
+    },
+    {
+      "file": "04-deep-learning.md",
+      "title": "Deep Learning : Réseaux de Neurones et Applications"
+    },
+    {
+      "file": "05-applications-ia.md",
+      "title": "Applications de l'Intelligence Artificielle en Afrique"
+    },
+    {
+      "file": "06-projet-ia.md",
+      "title": "Conception et Réalisation d'un Projet d'IA"
+    },
+    {
+      "file": "07-ethique-ia.md",
+      "title": "Éthique et Responsabilité dans l'Intelligence Artificielle"
+    },
+    {
+      "file": "08-outils-ia.md",
+      "title": "Outils et Technologies pour l'Intelligence Artificielle"
+    },
+    {
+      "file": "09-cas-d-etude.md",
+      "title": "Études de Cas : Applications de l'IA dans des Entreprises Africaines"
+    },
+    {
+      "file": "10-perspectives-ia.md",
+      "title": "Perspectives et Tendances de l'Intelligence Artificielle"
+    }
+  ]
+}
